@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a72f6b768fffc0e48a6c0f3a700380ca, type: 3}
+  m_Name: UpgradesData
+  m_EditorClassIdentifier: 
+  ClientsSpeed:
+  - Level: 1
+    Value: 2
+    Price: 0
+  - Level: 2
+    Value: 1.5
+    Price: 2000
+  - Level: 3
+    Value: 1
+    Price: 4000
+  MoneyFromClients:
+  - Level: 1
+    Value: 20
+    Price: 0
+  - Level: 2
+    Value: 30
+    Price: 2000
+  - Level: 3
+    Value: 40
+    Price: 4000
+  VendingCapacity:
+  - Level: 1
+    Value: 50
+    Price: 0
+  - Level: 2
+    Value: 100
+    Price: 100
+  - Level: 3
+    Value: 200
+    Price: 150
+  - Level: 4
+    Value: 300
+    Price: 200
+  - Level: 5
+    Value: 400
+    Price: 300
+  - Level: 6
+    Value: 600
+    Price: 400
+  - Level: 7
+    Value: 800
+    Price: 500
+  - Level: 8
+    Value: 1000
+    Price: 600
+  VendingSpeed:
+  - Level: 1
+    Value: 1
+    Price: 0
+  - Level: 2
+    Value: 0.9
+    Price: 100
+  - Level: 3
+    Value: 0.8
+    Price: 200
+  - Level: 4
+    Value: 0.7
+    Price: 300
+  - Level: 5
+    Value: 0.6
+    Price: 400
+  - Level: 6
+    Value: 0.5
+    Price: 500
+  - Level: 7
+    Value: 0.4
+    Price: 600
+  - Level: 8
+    Value: 0.3
+    Price: 700
+  CharacterCapacity:
+  - Level: 1
+    Value: 1
+    Price: 0
+  - Level: 2
+    Value: 2
+    Price: 50
+  - Level: 3
+    Value: 3
+    Price: 100
+  - Level: 4
+    Value: 4
+    Price: 150
+  - Level: 5
+    Value: 5
+    Price: 200
+  - Level: 6
+    Value: 6
+    Price: 250
+  - Level: 7
+    Value: 7
+    Price: 300
+  - Level: 8
+    Value: 8
+    Price: 350
+  - Level: 9
+    Value: 9
+    Price: 400
+  - Level: 10
+    Value: 10
+    Price: 500
+  - Level: 11
+    Value: 11
+    Price: 600
+  - Level: 12
+    Value: 12
+    Price: 700
+  - Level: 13
+    Value: 13
+    Price: 800
+  - Level: 14
+    Value: 14
+    Price: 900
+  - Level: 15
+    Value: 15
+    Price: 1000
+  - Level: 16
+    Value: 16
+    Price: 1100
+  - Level: 17
+    Value: 17
+    Price: 1200
+  - Level: 18
+    Value: 18
+    Price: 1300
+  - Level: 19
+    Value: 19
+    Price: 1400
+  - Level: 20
+    Value: 20
+    Price: 1500
+  - Level: 21
+    Value: 21
+    Price: 1600
+  - Level: 22
+    Value: 21
+    Price: 1700
+  CharacterSpeed:
+  - Level: 1
+    Value: 2
+    Price: 0
+  - Level: 2
+    Value: 1.9
+    Price: 200
+  - Level: 3
+    Value: 1.8
+    Price: 400
+  - Level: 4
+    Value: 1.7
+    Price: 600
+  - Level: 5
+    Value: 1.6
+    Price: 800
+  - Level: 6
+    Value: 1.5
+    Price: 1000
+  - Level: 7
+    Value: 1.4
+    Price: 1200
+  - Level: 8
+    Value: 1.3
+    Price: 1400
+  - Level: 9
+    Value: 1.2
+    Price: 1600
+  - Level: 10
+    Value: 1.1
+    Price: 1800
+  - Level: 11
+    Value: 1
+    Price: 2000
+  - Level: 12
+    Value: 0.9
+    Price: 2200
+  - Level: 13
+    Value: 0.8
+    Price: 2400
+  - Level: 14
+    Value: 0.7
+    Price: 2600
+  - Level: 15
+    Value: 0.6
+    Price: 2800
+  - Level: 16
+    Value: 0.5
+    Price: 3000
+  - Level: 17
+    Value: 0.4
+    Price: 3200
+  - Level: 18
+    Value: 0.3
+    Price: 3400
+  - Level: 19
+    Value: 0.2
+    Price: 3600
+  - Level: 20
+    Value: 0.1
+    Price: 3800
+  AssistantCapacity:
+  - Level: 1
+    Value: 1
+    Price: 0
+  - Level: 2
+    Value: 2
+    Price: 2000
+  - Level: 3
+    Value: 3
+    Price: 4000
+  - Level: 4
+    Value: 4
+    Price: 6000
+  AssistantsSpeed:
+  - Level: 1
+    Value: 2
+    Price: 0
+  - Level: 2
+    Value: 1.9
+    Price: 200
+  - Level: 3
+    Value: 1.8
+    Price: 300
+  - Level: 4
+    Value: 1.7
+    Price: 400
+  - Level: 5
+    Value: 1.6
+    Price: 500
+  - Level: 6
+    Value: 1.5
+    Price: 600
+  - Level: 7
+    Value: 1.4
+    Price: 700
+  - Level: 8
+    Value: 1.3
+    Price: 800
+  - Level: 9
+    Value: 1.2
+    Price: 1000
+  - Level: 10
+    Value: 1.1
+    Price: 1200
+  - Level: 11
+    Value: 1
+    Price: 1400
+  AssistantsPurchase:
+  - Level: 0
+    Value: 0
+    Price: 100
+  - Level: 1
+    Value: 0
+    Price: 500
+  - Level: 2
+    Value: 0
+    Price: 1200
+  - Level: 3
+    Value: 0
+    Price: 3000
+  - Level: 4
+    Value: 0
+    Price: 5000
